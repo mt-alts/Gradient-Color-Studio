@@ -1,2 +1,2 @@
 # Gradient-Color-Studio
-<img src="GradientColorStudio/screenshot.PNG" width=500 height=508>
+![Gradient Color Studio](https://github.com/mt-alts/Gradient-Color-Studio/blob/main/GradientColorStudio/screenshot.PNG)
