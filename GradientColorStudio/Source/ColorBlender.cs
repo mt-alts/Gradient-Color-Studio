@@ -70,6 +70,7 @@ namespace GradientColorStudio
                         lgb.InterpolationColors = colorBlend;
                         graphics.FillRectangle(lgb, rectangle);
                         lgb.Dispose();
+                        graphics.Dispose();
                         break;
                     case EGradientStyle.MIXED:
                         GraphicsPath graphicsPath = new GraphicsPath();
